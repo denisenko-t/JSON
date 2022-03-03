@@ -1,4 +1,7 @@
-Denisenko Tatiana
-31
-0
-80000$
+{
+	"First name": "Tatiana",
+	"Last name": "Denisenko",
+	"Age": 31,
+	"Pets": 0,
+	"Salary": "$80000"
+}
